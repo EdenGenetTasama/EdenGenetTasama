@@ -1,7 +1,11 @@
 # Welcome to my page 👋
 ## I’m a Student of FullStack web develpoer
 
-### Contect me 📫 in  [LinkedIn](https://www.linkedin.com/in/eden-genet-tasama-8a2a18220/).
+### 📫 Contect me in  [LinkedIn](https://www.linkedin.com/in/eden-genet-tasama-8a2a18220/).
+
+- [x] 
+- [ ] 
+- [ ]
 
 
 <!-- **EdenGenetTasama/EdenGenetTasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
