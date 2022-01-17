@@ -3,7 +3,7 @@
 ![download](https://user-images.githubusercontent.com/87426425/149787455-ca76af37-e5af-47a2-8b83-61000889e77d.png)
 
 
-**EdenGenetTasama/EdenGenetTasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- **EdenGenetTasama/EdenGenetTasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+--> -->
