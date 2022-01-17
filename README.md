@@ -1,11 +1,9 @@
 # Welcome to my page 👋
 ## I’m a Student of FullStack web develpoer
 
+### 💬 Ask me about Fronted and Backend and DataBase Technology
 ### 📫 Contect me in  [LinkedIn](https://www.linkedin.com/in/eden-genet-tasama-8a2a18220/).
 
-- [x] #739
-- [ ] https://github.com/octo-org/octo-repo/issues/740
-- [ ] Add delight to the experience when all tasks are complete :tada:
 
 
 <!-- **EdenGenetTasama/EdenGenetTasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
