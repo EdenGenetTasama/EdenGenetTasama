@@ -1,5 +1,5 @@
 # Welcome to my page 👋
-## I’m a Student of FullStack web develpoer
+## I’m a Student of FullStack web develpoer at Tech-Career
 
 ### 💬 Ask me about Fronted, Backend and DataBase Technology
 ### 📫 Contect me in  [LinkedIn](https://www.linkedin.com/in/eden-genet-tasama-8a2a18220/).
