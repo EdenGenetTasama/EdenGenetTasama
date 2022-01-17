@@ -1,6 +1,7 @@
-### Hi there 👋
-### 👯 I’m looking to collaborate on ...
-![download](https://user-images.githubusercontent.com/87426425/149787455-ca76af37-e5af-47a2-8b83-61000889e77d.png)  
+# Welcome to my page 👋
+## I’m a Student of FullStack web develpoer
+
+### Contect me 📫 in  [LinkedIn](https://www.linkedin.com/in/eden-genet-tasama-8a2a18220/).
 
 
 <!-- **EdenGenetTasama/EdenGenetTasama** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
